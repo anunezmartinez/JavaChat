@@ -11,7 +11,7 @@ Una vez estamos conectados tenemos que introducir nuestro nombre de usuario y un
 
 Si quieremos chatear, necesitaremos mínimo dos personas. Entonces conectaremos otro usuario, cuando un usuario se conctecta, se le notifica a la sala con un mensaje desde el Servidor.
 
-![alt text](https://github.com/anunezmartinez/JavaSocket/blob/main/README/5.PNG)![alt text](https://github.com/anunezmartinez/JavaSocket/blob/main/README/6.PNG)
+![alt text](https://github.com/anunezmartinez/JavaSocket/blob/main/README/6.PNG)
 
 Una vez ahí ya podemos Chatear uno con el otro.
 
